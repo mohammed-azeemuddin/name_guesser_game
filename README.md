@@ -11,5 +11,5 @@ Then `./a.out` if you are on Linux
 Use any C++ IDE for compilation and execution
 
 
-OUTPUT
+#### OUTPUT
 ![Screenshot from 2019-04-06 17-10-06](https://user-images.githubusercontent.com/48662097/55668962-e4e00e00-588e-11e9-9623-c4e665e8bdf0.png)
